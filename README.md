@@ -11,6 +11,7 @@ Die vier bunten Fische sind auf einer Reise durch einen reißerischen Fluss als 
 Der  Farbwürfel  bestimmt,  ob  das  Boot  oder  die  Fische  ziehen dürfen. Sind am Ende zwei oder mehr Fische im Meer, gewinnen  die  Fisch-Freunde.  Haben  die  Fischer  mehr  als  zwei Fische gefangen, gewinnen die Fischer-Fans.
 
 ### Regeln:
+- Das Spiel wird in der Start-Szene begonnen
 - Vor dem Beginn des Spieles muss sich jeder Spieler entweder für die Seite der Fischer oder der Fische entscheiden
 - Jeder Spieler würfelt pro Runde ein mal
 - Sollte ein bereits gefangener oder im Ziel angekommender Fisch gewürfelt werden, so muss erneut gewürfelt werden
