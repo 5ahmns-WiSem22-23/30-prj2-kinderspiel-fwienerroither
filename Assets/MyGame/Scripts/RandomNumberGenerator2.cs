@@ -97,7 +97,7 @@ public class RandomNumberGenerator2 : MonoBehaviour
             SceneManager.LoadScene("FischGewinnt");
         }
 
-        if (blau == null && gruen == null && rosa == null && gelb == null || fortschrittBoot >= zielFortschritt + 6)
+        if (blau == null && gruen == null && rosa == null && gelb == null || fortschrittBoot >= zielFortschritt || blau == null && gruen == null && rosa == null || gruen == null && rosa == null && gelb == null || rosa == null && gelb == null && blau == null || gelb == null && blau == null && gruen == null)
         {
             SceneManager.LoadScene("BootGewinnt");
         }       
