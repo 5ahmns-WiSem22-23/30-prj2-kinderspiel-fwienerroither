@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 1230998620701281733}
   - component: {fileID: 1230998620701281732}
   - component: {fileID: 1230998620701281734}
-  - component: {fileID: 7919419789494111900}
   - component: {fileID: 631103859446021399}
+  - component: {fileID: 3400032488575981629}
   m_Layer: 0
   m_Name: Fisch
   m_TagString: Untagged
@@ -111,18 +111,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
---- !u!114 &7919419789494111900
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1230998620701281739}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d3f360d14b7d4172a48d84ebabc1c0e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &631103859446021399
 Rigidbody2D:
   serializedVersion: 4
@@ -144,3 +132,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &3400032488575981629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1230998620701281739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f360d14b7d4172a48d84ebabc1c0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

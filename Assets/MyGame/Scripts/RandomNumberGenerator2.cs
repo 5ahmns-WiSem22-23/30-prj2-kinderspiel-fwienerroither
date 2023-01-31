@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -89,6 +87,7 @@ public class RandomNumberGenerator2 : MonoBehaviour
             {
                 boot.transform.position += new Vector3(1, 0, 0);
                 fortschrittBoot++;
+                drawedColorSprite.color = Color.black;
             }
         }
 
@@ -98,7 +97,7 @@ public class RandomNumberGenerator2 : MonoBehaviour
             SceneManager.LoadScene("FischGewinnt");
         }
 
-        if (blau == null && gruen == null && rosa == null && gelb == null || fortschrittBoot >= zielFortschritt + 4)
+        if (blau == null && gruen == null && rosa == null && gelb == null || fortschrittBoot >= zielFortschritt + 6)
         {
             SceneManager.LoadScene("BootGewinnt");
         }       
