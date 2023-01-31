@@ -17,8 +17,8 @@ Der  Farbwürfel  bestimmt,  ob  das  Boot  oder  die  Fische  ziehen dürfen. S
 
 ### Ende des Spiels:
 Es gibt mehrere Möglichkeiten, das Spiel zu beenden: 
-- 1.Zwei  Fische  erreichen  das  Meer.  Die  Fisch-Freunde gewinnen. 
-- 2.Drei  Fische  werden  gefangen.  Die  Fischer-Fans  gewinnen. 
+- 1.Zwei  Fische  erreichen  das  Meer.  Die  Fisch-Freunde gewinnen. Es wird ein Endbildschrim mit einem Bild der glücklichen Fische angezeigt.
+- 2.Drei  Fische  werden  gefangen.  Die  Fischer-Fans  gewinnen. Es wird ein Endbildschirm mit einem Bild der glücklichen Fischer angezeigt.
 
 Was passiert wohl beim nächsten Wett-Schwimmen im Fluss?
 
